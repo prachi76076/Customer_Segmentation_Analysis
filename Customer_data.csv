@@ -1,0 +1,11 @@
+﻿Customer_id,Age ,Gender,Income ,Location ,Occupation,Marital_Status ,Total_Spend ,Purchase_Frequency,Last_Purchase_Date,Days_Since_Last_Purchase,Number_of_Purchases,Average_Order_Value ,Preferred_Category,Discount_Sensitivity,Loyality_Program_Member ,Brand_Affinity,Channel_Preference,Customer_Rating
+101,25,Male,25000,India,Teacher,Single,1000,4,16/12/2024,5,45,100,Electronics,High,Yes,Apple,In-Store,4
+102,50,Female,30000,America,Engineer,Married,1500,16,14/12/2024,7,20,50,Fashion,Medium,No,Nike,Online,5
+103,30,Male,15000,Pakistan,Lawyer,Single,2000,14,12/12/2024,8,35,60,Home Goods,Low,Yes,Samsung,In-Store,4
+104,45,Female,40000, Africa,Doctor,Single,1200,12,20/12/2024,4,30,40,Home Goods,Medium,No,Samsung,In-Store,3
+105,35,Male,20000,England,Manager,Married,1800,6,25/12/2024,6,10,45,Electronics,Medium,No,Apple,Online,3
+106,25,Male,35000,New York,Doctor,Married,3000,2,15/12/2024,10,25,20,Electronics,High,Yes,Apple,Online,4
+107,35,Female,45000,London,Engineer,Married,2200,5,24/11/2024,12,45,35,Fashion,High,Yes,Adidas,Online,2
+108,40,Female,50000,Paris,Lawyer,Single,2500,15,26/11/2024,3,40,100,Home Goods,Low,Yes,Samsung,In-Store,3
+109,55,Female,10000,Chicago,Manager,Single,2800,10,10/12/2024,9,15,45,Electronics,Low,No,Apple,Online,5
+110,40,Male,55000,Berlin,Teacher,Married,1800,8,18/11/2024,11,20,60,Fashion,Medium,Yes,Nike,In-Store,4
